@@ -1,0 +1,10 @@
+{
+    "target": "terminus_open",
+    "cancel": "terminus_cancel_build",
+    "cmd": ["/usr/bin/python3", "-u", "$file"],
+    "file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",
+    "selector": "source.python",
+    "working_dir": "$folder",
+    "auto_close": false,
+    "timeit": true
+}
