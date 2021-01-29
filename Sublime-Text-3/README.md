@@ -6,7 +6,7 @@
 | [python_about.sublime-snippet](python_about.sublime-snippet) 	| Save this in `/[home_directory]/.config/sublime-text-3/Packages/User/` 	| about + `Tab` 	|
 | [python_shebang.sublime-snippet](python_shebang.sublime-snippet) 	| Save this in `/[home_directory]/.config/sublime-text-3/Packages/User/` 	| shebang + `Tab` 	|
 
-# Sublime REPL (Side-by-side Build System)
+## Sublime REPL (Side-by-side Build System)
 | Files 	| Installation 	| Usage 	|
 |:-	|:-	|:-:	|
 ||[Origami](https://github.com/SublimeText/Origami#installation)|[Usage](https://github.com/SublimeText/Origami#using-the-command-line)
@@ -16,5 +16,5 @@
 |[terminus_repl.py](terminus_repl.py)|Save this in `/[home_directory]/.config/sublime-text-3/Packages/User/`|
 |[newPython3.sublime-build](newPython3.sublime-build)|Save this in `/[home_directory]/.config/sublime-text-3/Packages/User/`|
 
-# Reference
+## Reference
 * [[QT08] Supercharging Terminus builds in Sublime Text](https://www.youtube.com/watch?v=HaH3U53UvcY&ab_channel=OdatNurd-SublimeTextTutorials)
