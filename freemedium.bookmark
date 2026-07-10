@@ -1,0 +1,1 @@
+javascript: (function () { window.location = window.location.toString().replace("https://", "https://freedium-mirror.cfd/"); })();
